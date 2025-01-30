@@ -41,7 +41,7 @@ function Service3() {
           </b>
         </motion.div>
         <motion.div
-          className="border border-gray-500 w-[20rem] p-4 rounded-2xl mx-10"
+          className="border border-gray-500 max-w-[20rem] p-4 rounded-2xl mx-10"
           variants={fadeIn(2.4)}
         >
           <h1 className="text-lg text-white">Token Launch Campaigns:</h1>
@@ -69,7 +69,7 @@ function Service3() {
         </motion.div>
 
         <motion.div
-          className="border border-gray-500 w-[20rem] p-4 rounded-2xl mx-10"
+          className="border border-gray-500 max-w-[20rem] p-4 rounded-2xl mx-10"
           variants={fadeIn(3.5)}
         >
           <h1 className="text-lg text-white">Influencer Marketing:</h1>
