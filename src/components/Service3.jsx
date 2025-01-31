@@ -29,7 +29,7 @@ function Service3() {
         <br />
       </motion.div>
 
-=      <motion.div className="flex justify-between">
+=      <motion.div className="flex justify-between max-w-[100vw]">
         <motion.div
           className="border border-gray-500 p-4 rounded-2xl mx-10 w-[20rem]"
           variants={fadeIn(1.8)}
@@ -56,7 +56,7 @@ function Service3() {
         <img src={img3} className="w-[250px] md:w-[500px]" />
       </div>
 
-=      <motion.div className="flex justify-between">
+=      <motion.div className="flex justify-between max-w-[100vw]  ">
         <motion.div
           className="border border-gray-500 w-[20rem] p-4 rounded-2xl mx-10"
           variants={fadeIn(3)}
