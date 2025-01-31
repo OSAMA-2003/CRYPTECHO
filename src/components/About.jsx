@@ -25,7 +25,7 @@ function About() {
           className="text-6xl font-bold mb-24 text-gray-200"
           variants={fadeInLeft(0)}
         >
-          About Crypticho
+          About Cryptecho
         </motion.h1>
         <motion.p className="text-xl mb-14" variants={fadeInLeft(0.5)}>
           The limitations of the traditional market never bind us; we design
